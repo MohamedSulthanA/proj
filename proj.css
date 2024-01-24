@@ -1,0 +1,14 @@
+ul{
+	display: flex;
+	justify-content:space-between;
+	background-color: white;
+}
+.ppp{
+	background: linear-gradient(
+		to bottom,
+		paleturquoise 0%,
+		paleturquoise 70%,
+		antiquewhite 70%,
+		antiquewhite 100%
+		);
+}
